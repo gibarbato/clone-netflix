@@ -1,6 +1,8 @@
 :root{
     --vermelho: #E50914;
     --preto: #141414;
+    --azul: blue;
+    --branco: white;
 }
 
 *{
@@ -12,7 +14,7 @@
 
 /*elementos base*/
 body{
-    background: var(--preto);
+    background: var(--white);
     color: var(--vermelho);
     font-family: 'Arial', Times, serif;
     color: white;
